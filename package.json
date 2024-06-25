@@ -1,0 +1,23 @@
+{
+  "name": "fyyur",
+  "version": "1.0.0",
+  "description": "## Introduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nour-massri/Fyyur.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nour-massri/Fyyur/issues"
+  },
+  "homepage": "https://github.com/nour-massri/Fyyur#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1"
+  }
+}

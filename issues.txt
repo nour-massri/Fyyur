@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/52770689/psycopg2-error-symbol-not-found-pqbackendpid

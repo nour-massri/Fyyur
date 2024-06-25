@@ -13,14 +13,14 @@ from flask_migrate import Migrate
 import logging
 from logging import Formatter, FileHandler
 from flask_wtf import Form
-from flask_wtf.csrf import CsrfProtect
+from flask_wtf.csrf import CSRFProtect
 import datetime
 
 #----------------------------------------------------------------------------#
 # App Config.
 #----------------------------------------------------------------------------#
 
-csrf = CsrfProtect()
+csrf = CSRFProtect()
 app = Flask(__name__)
 
 moment = Moment(app)
